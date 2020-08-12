@@ -1,5 +1,4 @@
-
 // main function
 $(document).ready(function() {
-  // code here
+  $("#nav-item-home").addClass('active');
 });
